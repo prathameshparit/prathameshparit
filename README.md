@@ -4,7 +4,7 @@
   
 <h3>I'm a PYTHON guy<h3>
 <br>
-<img align="top" alt="python" src="https://github.com/prathameshparit/prathameshparit/blob/main/python-4785225_1920.jpg" width="1920" height="430">
+<img align="top" alt="python" src="https://github.com/prathameshparit/prathameshparit/blob/main/pythonpp.jpg" width="1920" height="430">
 
 </p>
   
@@ -51,7 +51,7 @@
 
 <img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/icons8-python.gif" width="100" height="100">
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sql.gif" width="100" height="100">
+<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sql.png" width="100" height="100">
 
 <img  align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/cpp.png" width="100" height="100">
 
@@ -69,7 +69,7 @@
   
 <img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sublime.jpg" width="90" height="100">
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/tensorflow.png" width="102" height="100">
+<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/tensorflow.jpg" width="102" height="100">
 
 <img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/Jupyter%20logo.png" width="90" height="100">
 

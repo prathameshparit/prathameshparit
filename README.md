@@ -51,7 +51,7 @@
 
 <img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/icons8-python.gif" width="100" height="100">
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sql.gif" width="160" height="60">
+<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sql.gif" width="160" height="80">
 
 <img  align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/cpp.png" width="100" height="100">
 

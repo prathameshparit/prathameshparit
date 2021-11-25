@@ -3,6 +3,7 @@
 <p>
   
 <h3>I'm a PYTHON guy<h3>
+<h5><p><a href="https://prathameshparit.github.io/">Click here</a></p> to browse through my website<h5>
 <br>
 <img align="top" alt="python" src="https://github.com/prathameshparit/prathameshparit/blob/main/pythonpp.jpg" width="1920" height="430">
 

@@ -17,11 +17,7 @@
 ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshparit&hide_border=true&bg_color=135,000000,400040&text_color=ffffff&title_color=00cd00)
 
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshparit&theme=highcontrast&hide_border=true&background=000019&fire=00cd00&ring=00cd00&stroke=ffffff&dates=ffae19)
 
-<p>
-<img align="center" alt="tropy" src="https://github-profile-trophy.vercel.app/?username=prathameshparit&theme=darkhub&&no-bg=true&&margin-w=5" height="240">
-</p>
 
 <img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshparit&hide=php&theme=cobalt">
   

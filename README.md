@@ -2,7 +2,7 @@
 
 <p>
   
-<h3>I guess I can code<h3>
+<h3>Prathamesh Parit<h3>
 <h5><a href="https://prathameshparit.github.io/">Click here</a> to browse through my WEBSITE<h5>
 <h5><a href="https://mlnoobs.hashnode.dev/">Click here</a> to browse through my BLOGS<h5>
 <br>

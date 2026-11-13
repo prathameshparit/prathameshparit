@@ -1,4 +1,4 @@
-name: Update profile artwork
+name: Update Ember Command
 
 on:
   workflow_dispatch:
@@ -27,5 +27,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets
-          git commit -m "chore: refresh profile artwork"
+          git commit -m "chore: refresh profile telemetry"
           git push

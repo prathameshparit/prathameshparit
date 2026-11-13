@@ -110,8 +110,8 @@ def hero_svg(config: dict, stats: dict) -> str:
   <style>.display{{font:700 42px 'Trebuchet MS',sans-serif;fill:{CREAM};letter-spacing:-1.2px}}.label{{font:700 10px 'Trebuchet MS',sans-serif;fill:{ORANGE};letter-spacing:2px}}.body{{font:14px 'Trebuchet MS',sans-serif;fill:{MUTED}}}.tag{{font:700 11px 'Trebuchet MS',sans-serif;fill:{CREAM};}}.num{{font:700 38px 'Trebuchet MS',sans-serif;fill:{CREAM};}}.tiny{{font:10px 'Trebuchet MS',sans-serif;fill:{MUTED};letter-spacing:1.2px}}@keyframes drift{{50%{{transform:rotate(7deg)}}}}@keyframes rise{{from{{opacity:0;transform:translateY(10px)}}to{{opacity:1;transform:translateY(0)}}}}.orbit{{transform-origin:730px 156px;animation:drift 7s cubic-bezier(.32,.72,0,1) infinite}}.intro{{animation:rise .9s cubic-bezier(.32,.72,0,1) both}}@media(prefers-reduced-motion:reduce){{.orbit,.intro{{animation:none}}}}</style>
 </defs>
 <rect width="900" height="330" rx="26" fill="{SHELL}"/><rect x="7" y="7" width="886" height="316" rx="21" fill="{CORE}" stroke="{HAIR}"/><rect x="7" y="7" width="886" height="316" rx="21" fill="url(#flare)"/>
-<path d="M29 41h330" stroke="url(#rim)" stroke-width="2"/><circle cx="29" cy="41" r="4" fill="{RED}"/><text x="42" y="69" class="label">SOFTWARE ENGINEERING  /  APPLIED AI</text>
-<g class="intro"><text x="42" y="123" class="display">{escape(config['name'])}</text><text x="42" y="152" class="body">{escape(config['role'])}</text><text x="42" y="178" class="body">{escape(config['location'])}</text><text x="42" y="212" class="label">FOCUS</text><text x="42" y="234" class="body">{escape(config['focus'])}</text>{skills}</g>
+<path d="M29 41h330" stroke="url(#rim)" stroke-width="2"/><circle cx="29" cy="41" r="4" fill="{RED}"/><text x="42" y="69" class="label">EMBER COMMAND / PROFILE 01</text>
+<g class="intro"><text x="42" y="123" class="display">{escape(config['name'])}</text><text x="42" y="152" class="body">{escape(config['role'])}</text><text x="42" y="178" class="body">{escape(config['location'])}</text><text x="42" y="212" class="label">CURRENT VECTOR</text><text x="42" y="234" class="body">{escape(config['focus'])}</text>{skills}</g>
 <g class="orbit"><circle cx="730" cy="156" r="108" fill="none" stroke="#5d2925"/><circle cx="730" cy="156" r="82" fill="none" stroke="#351919" stroke-dasharray="3 8"/><path d="M635 107a108 108 0 0 1 188 104" fill="none" stroke="url(#rim)" stroke-width="3" stroke-linecap="round"/><circle cx="635" cy="107" r="6" fill="{RED}" filter="url(#glow)"/><circle cx="823" cy="211" r="5" fill="{GOLD}"/></g>
 <text x="730" y="146" text-anchor="middle" class="num">{stats['stars']}</text><text x="730" y="168" text-anchor="middle" class="tiny">TOTAL STARS</text><text x="730" y="193" text-anchor="middle" class="label">{stats['public_repos']} REPOSITORIES</text>
 <text x="858" y="318" text-anchor="end" class="tiny">STATUS / {escape(clip(config['status'], 52)).upper()}</text>
@@ -141,9 +141,9 @@ def signal_svg(config: dict, stats: dict) -> str:
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="445" viewBox="0 0 900 445" role="img" aria-label="GitHub signal dashboard for {escape(config['username'])}">
 <defs><linearGradient id="line"><stop stop-color="{RED}"/><stop offset=".5" stop-color="{ORANGE}"/><stop offset="1" stop-color="{GOLD}"/></linearGradient><style>.title{{font:700 25px 'Trebuchet MS',sans-serif;fill:{CREAM};}}.label{{font:700 9px 'Trebuchet MS',sans-serif;fill:{ORANGE};letter-spacing:1.5px}}.metric{{font:700 31px 'Trebuchet MS',sans-serif;fill:{CREAM};}}.body{{font:12px 'Trebuchet MS',sans-serif;fill:{MUTED};}}.strong{{font-weight:700;fill:{CREAM};}}.mono{{font:10px ui-monospace,Consolas,monospace;fill:{MUTED};}}.repo{{font:700 10px 'Trebuchet MS',sans-serif;fill:{CREAM};}}.desc{{font:9px 'Trebuchet MS',sans-serif;fill:{MUTED};}}@keyframes reveal{{from{{opacity:0}}to{{opacity:1}}}}@keyframes grow{{from{{transform:scaleX(0)}}to{{transform:scaleX(1)}}}}.reveal{{animation:reveal .7s cubic-bezier(.32,.72,0,1) both}}.bar{{transform-origin:left;animation:grow .8s cubic-bezier(.32,.72,0,1) both}}@media(prefers-reduced-motion:reduce){{.reveal,.bar{{animation:none}}}}</style></defs>
-<rect width="900" height="445" rx="26" fill="{SHELL}"/><rect x="7" y="7" width="886" height="431" rx="21" fill="{CORE}" stroke="{HAIR}"/><path d="M29 42h842" stroke="url(#line)"/><text x="31" y="39" class="label">GITHUB ACTIVITY / @{escape(config['username'].upper())}</text>{''.join(metric_nodes)}
-<text x="31" y="190" class="title">Languages</text><text x="523" y="190" class="title">Selected projects</text>{''.join(lang_nodes)}{''.join(repo_nodes)}
-<text x="31" y="427" class="mono">Public GitHub activity</text><text x="869" y="427" text-anchor="end" class="label"></text>
+<rect width="900" height="445" rx="26" fill="{SHELL}"/><rect x="7" y="7" width="886" height="431" rx="21" fill="{CORE}" stroke="{HAIR}"/><path d="M29 42h842" stroke="url(#line)"/><text x="31" y="39" class="label">LIVE TELEMETRY / @{escape(config['username'].upper())}</text>{''.join(metric_nodes)}
+<text x="31" y="190" class="title">Language ignition</text><text x="523" y="190" class="title">Selected transmissions</text>{''.join(lang_nodes)}{''.join(repo_nodes)}
+<text x="31" y="427" class="mono">Generated from GitHub public data · no external stats service</text><text x="869" y="427" text-anchor="end" class="label">SYSTEM NOMINAL</text>
 </svg>'''
 
 
@@ -164,7 +164,7 @@ def main() -> int:
     ASSETS.mkdir(exist_ok=True)
     (ASSETS / "hero.svg").write_text(hero_svg(config, stats), encoding="utf-8")
     (ASSETS / "signal.svg").write_text(signal_svg(config, stats), encoding="utf-8")
-    print(f"Generated profile assets for @{username}")
+    print(f"Generated Ember Command assets for @{username}")
     return 0
 
 

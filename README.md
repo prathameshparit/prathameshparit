@@ -22,7 +22,7 @@ I'm a **Software Development Engineer at Flipkart** building backend systems whe
 
 <sub>Highlights from work at Flipkart. P99 latency improved from 5 seconds to 60 milliseconds; records were migrated without downtime.</sub>
 
-### `// 02` &nbsp; WHAT I WORK ON
+### `// 02` &nbsp; WHAT I BUILD
 
 **⚡ High-throughput backends** — Event-driven services and data pipelines with Java, Dropwizard, Kafka, Debezium, and Flink. Built for real-world traffic and resilient integrations.
 
@@ -30,7 +30,7 @@ I'm a **Software Development Engineer at Flipkart** building backend systems whe
 
 **🛠️ Platforms that last** — Data migration, caching, asynchronous I/O, circuit breakers, and observability. From production systems to the tools that keep them healthy.
 
-### `// 03` &nbsp; FEATURED PROJECTS
+### `// 03` &nbsp; SELECTED EXPERIMENTS
 
 <table><tr><td width="50%" valign="top">
 <h3>◈ Multimodal QA + Web Agent</h3>
@@ -53,7 +53,7 @@ I'm a **Software Development Engineer at Flipkart** building backend systems whe
 <code>JAVA</code> <code>KAFKA</code> <code>DATA PLATFORMS</code>
 </td></tr></table>
 
-### `// 04` &nbsp; TECH STACK
+### `// 04` &nbsp; THE ARSENAL
 
 <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,postgres,python,docker,kubernetes,gcp,aws,git&theme=dark" alt="Java, Spring, Kafka, Redis, MySQL, PostgreSQL, Python, Docker, Kubernetes, Google Cloud, AWS and Git" />
 
@@ -62,7 +62,7 @@ I'm a **Software Development Engineer at Flipkart** building backend systems whe
 **AI:** LLMs · RAG · LangChain · AutoGen · model evaluation · computer vision  
 **Platform:** Docker · Kubernetes · GCP · AWS · Prometheus · Grafana
 
-### `// 05` &nbsp; ACHIEVEMENTS
+### `// 05` &nbsp; BEYOND THE TERMINAL
 
 🏆 **Five national hackathon wins**, including Flipkart Grid 5.0 and the Microsoft Azure Hackathon.  
 🎓 **B.E. in Artificial Intelligence and Data Science**, with honours in AI and ML.  
@@ -70,5 +70,8 @@ I'm a **Software Development Engineer at Flipkart** building backend systems whe
 
 <div align="center">
 <br />
-<strong>BUILD AT SCALE. STAY CURIOUS. KEEP SHIPPING.</strong>
+<img src="./assets/signal.svg" width="900" alt="Public GitHub activity dashboard" />
+<br /><br />
+<strong>BUILD AT SCALE. STAY CURIOUS. KEEP SHIPPING.</strong><br /><br />
+<sub>Visual system adapted from <a href="https://github.com/Jenesyx/pretty-github">Pretty GitHub · Ember Command</a> by Arta Bidkhori.</sub>
 </div>

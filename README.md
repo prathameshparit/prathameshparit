@@ -1,78 +1,77 @@
-# Welcome👋
-
-<p>
-  
-<h3>Prathamesh Parit<h3>
-<h5><a href="https://prathameshparit.github.io/">Click here</a> to browse through my WEBSITE<h5>
-<h5><a href="https://mlnoobs.hashnode.dev/">Click here</a> to browse through my BLOGS<h5>
-<br>
-<img align="top" alt="python" src="https://github.com/prathameshparit/prathameshparit/blob/main/pythonpp.jpg" width="1920" height="430">
-
-</p>
-  
-<p>
-<img align="right" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/Aritificial%20%20Intelligence.gif"  width="330" height="330">
-</p>
-
-![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshparit&hide_border=true&bg_color=135,000000,400040&text_color=ffffff&title_color=00cd00)
-
-  
-
-
-<img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshparit&hide=php&theme=cobalt">
-  
-  
-<p>&nbsp;</p> 
-  
-<img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=prathameshparit&style=plastic&color=4c004c">
- 
-  
-<p>
-<h2> Connect with Me </h2>
-
-<a href="https://www.linkedin.com/in/prathameshparit/"> <img align="left" alt="linkedin" src="https://github.com/prathameshparit/prathameshparit/blob/main/downsign-linked-in.gif" width="120" height="120" target="blank"> </a>
-
-<a href="https://www.instagram.com/prathameshparit_/"> <img align="left" alt="linkedin" src="https://github.com/prathameshparit/prathameshparit/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="140" height="120" target="blank"> </a>
-  
-<a href="https://twitter.com/OfficialParit"> <img align="left" alt="linkedin" src="https://github.com/prathameshparit/prathameshparit/blob/main/twitter.gif" width="160" height="120" target="blank"> </a>
-
-</p>
-
-<p>&nbsp;</p> 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p>
-<h2>Languages</h2>
-
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/icons8-python.gif" width="100" height="100">
-
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sql.gif" width="160" height="80">
-
-<img  align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/cpp.png" width="100" height="100">
-
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/CSS.png" width="90" height="100">
-<p>&nbsp;</p> 
-</p>
-
-<p>&nbsp;</p> 
-
-<p>
+<div align="center">
+<img src="./assets/hero.svg" width="900" alt="Prathamesh Parit — Software Development Engineer at Flipkart" />
+<br /><br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=FF8A1F&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=BACKEND+ENGINEERING+%C3%97+APPLIED+AI;Java+%7C+Kafka+%7C+Distributed+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;From+millions+of+records+to+intelligent+experiences" alt="Backend engineering, distributed systems and applied AI" />
 <br />
-<h2>IDE's</h2>
+<a href="https://prathameshparit.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-ff4d3d?style=for-the-badge&amp;labelColor=171012" alt="Portfolio" /></a>
+<a href="https://mlnoobs.hashnode.dev/"><img src="https://img.shields.io/badge/BLOG-ff8a1f?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white&amp;labelColor=171012" alt="Blog" /></a>
+<a href="https://www.linkedin.com/in/prathameshparit/"><img src="https://img.shields.io/badge/LET%27S_CONNECT-ffc857?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=171012" alt="LinkedIn" /></a>
+<br /><br />
+</div>
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/PyCharrm.png" width="100" height="100">
-  
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/sublime.gif" width="90" height="100">
+### `// 01` &nbsp; ENGINEERING AT SCALE
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/tf.gif" width="102" height="100">
+I'm a **Software Development Engineer at Flipkart** building backend systems where reliability, speed, and data matter. I work across **Java, Dropwizard, Spring Boot, Kafka, SQL, and Redis** — and explore what happens when distributed systems meet **LLMs, RAG, and AI agents**.
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/Jupyter%20logo.png" width="90" height="100">
+<table><tr>
+<td align="center" width="25%"><h2>~4,400</h2>peak requests/sec</td>
+<td align="center" width="25%"><h2>70×</h2>lower P99 API latency</td>
+<td align="center" width="25%"><h2>20M+</h2>seller records migrated</td>
+<td align="center" width="25%"><h2>5</h2>national hackathon wins</td>
+</tr></table>
 
-<img align="left" alt="gif" src="https://github.com/prathameshparit/prathameshparit/blob/main/Collab.png" width="100" height="100">
+<sub>Highlights from work at Flipkart. P99 latency improved from 5 seconds to 60 milliseconds; records were migrated without downtime.</sub>
 
-</p>  
-  
-   
+### `// 02` &nbsp; WHAT I BUILD
+
+**⚡ High-throughput backends** — Event-driven services and data pipelines with Java, Dropwizard, Kafka, Debezium, and Flink. Built for real-world traffic and resilient integrations.
+
+**🧠 Applied AI** — LLM integration, retrieval-augmented generation (RAG), multimodal question answering, and conversational agents. Connecting models to useful information and workflows.
+
+**🛠️ Platforms that last** — Data migration, caching, asynchronous I/O, circuit breakers, and observability. From production systems to the tools that keep them healthy.
+
+### `// 03` &nbsp; SELECTED EXPERIMENTS
+
+<table><tr><td width="50%" valign="top">
+<h3>◈ Multimodal QA + Web Agent</h3>
+<p>Question answering across documents and video, with relevant images and a web navigation agent.</p>
+<code>RAG</code> <code>PYTHON</code> <code>LANGCHAIN</code><br /><br />
+<a href="https://github.com/prathameshparit/Multimodal_QA_System_with_Web_Agent"><strong>EXPLORE ↗</strong></a>
+</td><td width="50%" valign="top">
+<h3>◉ Multi-Agent Conversational Chat</h3>
+<p>Specialized conversational agents that collect and structure information.</p>
+<code>AUTOGEN</code> <code>LLMs</code> <code>LANGCHAIN</code><br /><br />
+<a href="https://github.com/prathameshparit/Multi_Agent_Conversational_Chat"><strong>EXPLORE ↗</strong></a>
+</td></tr><tr><td width="50%" valign="top">
+<h3>✦ Conversational Fashion AI</h3>
+<p>An AI fashion assistant for personalized outfit generation and virtual try-ons.</p>
+<code>STABLE DIFFUSION</code> <code>CONTROLNET</code> <code>LLMs</code><br /><br />
+<a href="https://github.com/prathameshparit/Conversational_Fashion_Outfit_Generator"><strong>EXPLORE ↗</strong></a>
+</td><td width="50%" valign="top">
+<h3>⬡ Production Engineering</h3>
+<p>At Flipkart: unified master data, modernized document storage, and migrated production workloads without downtime.</p>
+<code>JAVA</code> <code>KAFKA</code> <code>DATA PLATFORMS</code>
+</td></tr></table>
+
+### `// 04` &nbsp; THE ARSENAL
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,postgres,python,docker,kubernetes,gcp,aws,git&theme=dark" alt="Java, Spring, Kafka, Redis, MySQL, PostgreSQL, Python, Docker, Kubernetes, Google Cloud, AWS and Git" />
+
+**Backend:** Java · Dropwizard · Spring Boot · gRPC · REST APIs  
+**Data & streaming:** Kafka · Debezium · Flink · SQL · Redis · Aerospike  
+**AI:** LLMs · RAG · LangChain · AutoGen · model evaluation · computer vision  
+**Platform:** Docker · Kubernetes · GCP · AWS · Prometheus · Grafana
+
+### `// 05` &nbsp; BEYOND THE TERMINAL
+
+🏆 **Five national hackathon wins**, including Flipkart Grid 5.0 and the Microsoft Azure Hackathon.  
+🎓 **B.E. in Artificial Intelligence and Data Science**, with honours in AI and ML.  
+🔥 **Flipkart Instant Karma Award**, 2025 and 2026.
+
+<div align="center">
+<br />
+<img src="./assets/signal.svg" width="900" alt="Public GitHub activity dashboard" />
+<br /><br />
+<strong>BUILD AT SCALE. STAY CURIOUS. KEEP SHIPPING.</strong><br /><br />
+<sub>Visual system adapted from <a href="https://github.com/Jenesyx/pretty-github">Pretty GitHub · Ember Command</a> by Arta Bidkhori.</sub>
+</div>

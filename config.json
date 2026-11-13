@@ -1,0 +1,23 @@
+{
+  "username": "prathameshparit",
+  "name": "Prathamesh Parit",
+  "role": "Software Development Engineer @ Flipkart",
+  "location": "India",
+  "status": "Building systems at scale. Exploring intelligence.",
+  "website": "https://prathameshparit.github.io/",
+  "focus": "Distributed systems  ·  Event streaming  ·  AI",
+  "skills": [
+    "Java",
+    "Dropwizard",
+    "Spring Boot",
+    "Kafka",
+    "Redis",
+    "LLMs + RAG"
+  ],
+  "featured_repos": [
+    "Multimodal_QA_System_with_Web_Agent",
+    "Multi_Agent_Conversational_Chat",
+    "Conversational_Fashion_Outfit_Generator",
+    "meta-glasses-visual-tutor"
+  ]
+}
